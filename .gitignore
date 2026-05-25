@@ -1,0 +1,4 @@
+venv/
+images/
+*.csv
+__pycache__/
