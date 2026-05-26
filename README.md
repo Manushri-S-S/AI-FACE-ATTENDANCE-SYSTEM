@@ -47,4 +47,11 @@ python main.py
 - Monthly attendance reports
 
 ## screenshots
-<img width="725" height="1600" alt="known face regonition" src="https://github.com/user-attachments/assets/fd5e8ae5-69c5-4e6c-85df-b37c8fa1e230" />
+<img width="1121" height="1280" alt="known face regonition" src="https://github.com/user-attachments/assets/c9f3794c-7235-4025-8fee-c2c0be37dc8c" />
+<img width="1236" height="1280" alt="unknown identified" src="https://github.com/user-attachments/assets/a1234eae-83e7-4594-bb30-b2fc3ff768cb" />
+<img width="1246" height="1280" alt="attendance csv sheet" src="https://github.com/user-attachments/assets/a95870e7-ddd8-40a6-8657-38f3fe66069f" />
+<img width="1280" height="506" alt="absentees display" src="https://github.com/user-attachments/assets/8cb7c54c-bf11-43c7-bd5b-faff79a8ef24" />
+
+
+
+
